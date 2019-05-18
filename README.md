@@ -11,6 +11,6 @@ They are tentative topics, the real subjects will be decided during this week's 
 
 ## Resources
 
-[Slides]()
+[Slides](https://tianyuanc.github.io/knowledge-652-10/#0)
 
-[Video]()
+[Video](https://tianyuanc.github.io/knowledge-652-10/#12)
